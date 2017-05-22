@@ -23,10 +23,3 @@ Blue Team is a two player card game of information technology security that focu
 The game is made of event cards, security control cards, value counters, and level counters. Security controls are used to defend against risk events. Each control can be matured through investment of value. This unlocks card abilities that give you a  strategic advantage.
 
 Blue Team currently only exists in a print your own cards format.
-
-## Terms of Use
-_Creative Commons License_
-
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-
-http://creativecommons.org/licenses/by/4.0/
