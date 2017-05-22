@@ -11,7 +11,7 @@ The goal of this game is to create a training tool to help bride this gap: to ma
 
 The game has three objectives:
 
-- Use real world examples of the components of risk to educate the players.
+- Use real world examples of the components of risk to educate.
 - Use game mechanisms to reflect the elements of Information Security Security risk analysis process.
 - Make the experience fun and enjoyable to increase retention of that knowledge.
 
@@ -20,9 +20,9 @@ As CISO you are responsible for the decisions which protect your company from se
 
 Blue Team is a two player card game of information technology security that focuses on threat modeling and defense. The goal is to prevent the loss of value - money, reputation, skill, or time - so that your company can stand above your competitor while staying one step ahead of hackers, vulnerabilities, and risk events.
 
-The game is made of a deck of events, a deck of controls, value counters, and level counters. Security controls which are used to defend against risk events. Each control can be matured through investment of value and has abilities that give you an in-game strategic advantage.
+The game is made of event cards, security control cards, value counters, and level counters. Security controls are used to defend against risk events. Each control can be matured through investment of value. This unlocks card abilities that give you a  strategic advantage.
 
-Blue Team currently only exists in a print your own cards format. A ready-made version that can be purchased online will be made available soon.
+Blue Team currently only exists in a print your own cards format.
 
 ## Terms of Use
 _Creative Commons License_
