@@ -27,4 +27,5 @@ Blue Team currently only exists in a print your own cards format. A ready-made v
 ## Terms of Use
 _Creative Commons License_
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License] (http://creativecommons.org/licenses/by/4.0/). 
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+http://creativecommons.org/licenses/by/4.0/
