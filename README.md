@@ -16,7 +16,7 @@ The game has three objectives:
 - Make the experience fun and enjoyable to increase retention of that knowledge.
 
 ## The Card Game
-As CISO you are responsible for the decisions which protect your company from security events, but competition is fierce with your rival. You might not be able to hack them directly, but you can make it difficult for them in other ways...
+As head of I.T. Security you are responsible for the decisions which protect your company from threat events. Competition with rival companies is fierce; you might not be able to hack them directly, but you can make it difficult for them in other ways...
 
 Blue Team is a two player card game of information technology security that focuses on threat modeling and defense. The goal is to prevent the loss of value - money, reputation, skill, or time - so that your company can stand above your competitor while staying one step ahead of hackers, vulnerabilities, and risk events.
 
