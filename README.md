@@ -1,4 +1,4 @@
-# blue-team
+Blue Team
 The Card Game That Teaches Information Security Threat and Defense
 
 The Project
@@ -15,7 +15,7 @@ Make the experience fun and enjoyable to increase retention of that knowledge.
 The Card Game
 As CISO you are responsible for the decisions which protect your company from security events, but competition is fierce with your rival. You might not be able to hack them directly, but you can make it difficult for them in other ways...
 
-#infosec is a two player card game of information technology security that focuses on threat modeling and defense. The goal is to prevent the loss of value - money, reputation, skill, or time - so that your company can stand above your competitor while staying one step ahead of hackers, vulnerabilities, and risk events.
+Blue Team is a two player card game of information technology security that focuses on threat modeling and defense. The goal is to prevent the loss of value - money, reputation, skill, or time - so that your company can stand above your competitor while staying one step ahead of hackers, vulnerabilities, and risk events.
 
 The game is made of a deck of events, a deck of controls, value counters, and level counters. Security controls which are used to defend against risk events. Each control can be matured through investment of value and has abilities that give you an in-game strategic advantage.
 
